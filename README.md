@@ -26,7 +26,7 @@ Extract some insights that could be achieved from the data. For example:
 * Evaluate the model
 
 ## Key Findings & Result
-### Key Findings
+**Key Findings**
 * 65% of total recipes are popular
 * 25 categories always being popular
 * Several recipes contain abnormal amount of ingredient
@@ -46,7 +46,7 @@ Total popularity proportion is 65%
 * Zero carbo recipes receives 5.8% more popularity
 * Zero protein recipes receive 5.7% more popularity
 
-### Result
+**Result**
 4 out of 5 recipes are correctly predicted unpopular4 out of 5 recipes are correctly predicted unpopular
 
 ## Conclusion
