@@ -47,6 +47,7 @@ Total popularity proportion is 65%
 * Zero protein recipes receive 5.7% more popularity
 
 **Result**
+
 4 out of 5 recipes are correctly predicted unpopular4 out of 5 recipes are correctly predicted unpopular
 
 ## Conclusion
